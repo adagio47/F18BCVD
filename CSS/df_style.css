@@ -1,8 +1,8 @@
 /* includes alternating gray and white with on-hover color */
 
 .mystyle {
-    font-size: 11pt; 
-    font-family: Arial;
+    font-size: 10pt; 
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     border-collapse: collapse; 
     border: 1px solid silver;
 
